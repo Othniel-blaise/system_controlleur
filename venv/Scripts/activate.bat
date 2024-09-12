@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\Users\chrys\Desktop\hacking avec py\venv
+set VIRTUAL_ENV=D:\Bureau\Prgramme_Inde\dev_web\Control-d-une-machine-a-distance\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
